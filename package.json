@@ -1,0 +1,28 @@
+{
+  "name": "spotifyplaylist",
+  "version": "1.0.0",
+  "description": "Gera uma playlist com a musica mais escutada de cada gênero informado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrohmietlicki/SpotifyPlaylist.git"
+  },
+  "keywords": [
+    "Spotify",
+    "api",
+    "playlist"
+  ],
+  "author": "Pedro Henrique Silva Mietlicki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrohmietlicki/SpotifyPlaylist/issues"
+  },
+  "homepage": "https://github.com/pedrohmietlicki/SpotifyPlaylist#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "spotify-web-api-node": "^4.0.0"
+  }
+}
